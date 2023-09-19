@@ -1,0 +1,252 @@
+.container{
+    margin-left:275px;
+    margin-right: 275px;
+    background: var(--primaty-grey-light, #F6F5F4);
+}
+
+
+.main{
+    font-family: Montserrat;
+font-size: 16px;
+font-weight: 600;
+line-height: 140%;
+letter-spacing: -0.64px;
+text-decoration: none;
+color: #000;
+}
+
+.line{
+ font-family: Montserrat;
+ font-size: 16px;
+ font-style: normal;
+ font-weight: 600;
+ line-height: 140%;
+ letter-spacing: -0.64px;
+ color: #757575;
+ text-decoration: none;
+}
+
+
+.container2{
+    margin-left: 275px;
+    margin-right: 275px;
+}
+
+
+
+
+.main__line{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-right: 362px;
+}
+
+.main__words{
+    color: #000;
+font-family:  Dela Gothic One;
+font-size: 20.861px;
+font-style: normal;
+font-weight: 400;
+line-height: 100%; 
+letter-spacing: -0.417px;
+}
+
+
+
+
+.cxz{
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.arrow{
+    display: flex;
+    padding-right: 100px;
+}
+
+.icon_users{
+ color:#C3DCE3;
+ border-radius: 50px;
+}
+
+.name{
+    color: #757575;
+    padding-left: 10px;
+}
+.users{
+    display: flex;
+    align-items: center;
+}
+
+.sign{
+    text-decoration: none;
+    color: #000;
+    font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+line-height: 100%;
+letter-spacing: -0.64px;
+}
+
+.box{
+    padding-top: 151px;
+    color: var(--primaty-cyan-dark, #2B788B);
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%;
+letter-spacing: 2.24px;
+text-transform: uppercase;
+}
+
+.flowers{
+    padding-right: 150px;
+    width: 348px;
+height: 571px;
+flex-shrink: 0;
+
+}
+
+.man{
+    width: 289.73400000000004px;
+height: 324.279px;
+flex-shrink: 0;
+display: flex;
+justify-content: end;
+}
+
+
+
+
+.main__text{
+font-family: Dela Gothic One;
+font-size: 56px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%;
+letter-spacing: -2.24px;
+
+}
+
+.practice{
+    color: var(--primaty-grey-dark, #757575);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    letter-spacing: -0.72px;
+}
+
+.picture{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+
+
+
+
+.click{
+    color: #2B788B;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%;
+letter-spacing: -0.64px;
+border-radius: 100px;
+}
+
+
+
+
+
+
+.section1{
+    padding-top: 135px;
+}
+
+.zxc{
+    display: flex;
+    align-items: center;
+}
+
+
+.last{
+    color: var(--primaty-black, #000);
+font-family: Dela Gothic One;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 100%;
+letter-spacing: -1.92px;
+}
+
+.save{
+    color: var(--primaty-grey-dark, #757575);
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 140%; 
+letter-spacing: -0.72px;
+}
+
+.stats{
+    display: flex;
+    align-items: end;
+    color: var(--primaty-cyan-dark, #2B788B);
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 100%;
+letter-spacing: -0.64px;
+border-radius: 100px;
+}
+.container1{
+    margin-left: 105px;
+    margin-top: 52px; 
+    background: var(--primaty-grey-light, #F6F5F4); 
+}
+
+
+.center{
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+.end{
+    color: var(--primaty-grey-dark, #757575);
+font-family: Montserrat;
+font-size: 12px;
+font-style: normal;
+font-weight: 600;
+line-height: 100%; 
+}
+.end__text{
+    padding-left: 1000px;
+  display: flex;
+ 
+}
+.first__text{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 40px;
+    color: var(--primaty-grey-dark, #757575);
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 100%;
+}
+
